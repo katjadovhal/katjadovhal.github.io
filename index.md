@@ -1,7 +1,7 @@
 🚧 *This portfolio is a work in progress. New projects, case studies, and updates will be added regularly.*
 
 # Hi, I'm Katja 
-I am a Computational Linguistics and Computer Science BSc student at LMU, currently preparing to start my Master's in Human-Computer Interaction.  
+I am a Computational Linguistics and Computer Science BSc student at LMU Munich, currently preparing to start my Master's in Human-Computer Interaction.  
 
 On this website I will be posting my projects on the intersection of **AI x HCI x Software Engineering**.
 
@@ -14,7 +14,7 @@ On this website I will be posting my projects on the intersection of **AI x HCI 
 - algorithms and data structures (that I am regularly practicing on Leetcode)
 - User research & prototyping
 
-## What I’m Building **now**
+## What I’m Building **now** 🆕
 - **Exploratory analysis of Amazon reviews**, including:
     - Reading and understanding the content of the dataset
     - Product and product category distributions, rating distributions - global view (all dataset) vs local view (by language/market)
