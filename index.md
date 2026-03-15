@@ -14,8 +14,16 @@ On this website I will be posting my projects on the intersection on AI x HCI x 
 - algorithms and data structures (that I am regularly practicing on Leetcode)
 - User research & prototyping
 
+## What I’m Building **now**
+- Exploratory analysis of Amazon reviews
+    - Reading and understanding the content of the dataset
+    - Product and product category distributions, rating distributions - global view (all dataset) vs local view (by language/market)
+    - Bias detection
+    - Applications
+    - Extraction of key words using Deep Learning Methods and LLMs
+[The current progress](https://github.com/katjadovhal/Amazon_reviews_exploration/blob/main/data_exploration.ipynb)
+
 ## What I’m Building next
 - this website ☺️ -> learning how to use HTML
-- a data processing and visualisation project
 - an app that utilises LLMs
 
