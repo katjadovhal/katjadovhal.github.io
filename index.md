@@ -20,7 +20,7 @@ On this website I will be posting my projects on the intersection on AI x HCI x 
     - Product and product category distributions, rating distributions - global view (all dataset) vs local view (by language/market)
     - Bias detection
     - Applications
-    - Extraction of key words using Deep Learning Methods and LLMs
+    - Extraction of key words using Deep Learning Methods and LLMs <br>
 [The current progress](https://github.com/katjadovhal/Amazon_reviews_exploration/blob/main/data_exploration.ipynb)
 
 ## What I’m Building next
