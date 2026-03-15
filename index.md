@@ -3,7 +3,7 @@
 # Hi, I'm Katja 
 I am a Computational Linguistics and Computer Science BSc student at LMU, currently preparing to start my Master's in Human-Computer Interaction.  
 
-On this website I will be posting my projects on the intersection on AI x HCI x Software Engineering.
+On this website I will be posting my projects on the intersection of AI x HCI x Software Engineering.
 
 ## My Skills
 - Python
