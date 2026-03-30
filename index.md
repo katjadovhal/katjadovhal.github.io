@@ -15,7 +15,7 @@ On this website I will be posting my projects on the intersection of **AI x HCI 
 - User research & application prototyping
 
 ## Finished Projects: 🆕
-- **Exploratory Data Analysis of Amazon reviews** jypiter Notebook, including:
+- **Exploratory Data Analysis of Amazon reviews** jupyter Notebook, including:
     - Reading and understanding the structure, quality and content of the dataset
     - Visualising product category distributions and rating distributions - global view (all dataset) vs local view (by language/market)
     - Bias detection
